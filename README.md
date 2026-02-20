@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I’m Bhavishya 👋
 
-<!--
-**bhav-adhk30/bhav-adhk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like understanding things properly.  
+If I don’t know *why* something works, I don’t trust it.
 
-Here are some ideas to get you started:
+Most of what’s here exists because curiosity wouldn’t let me leave it alone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I work on
+
+- Machine Learning & AI  
+- Core CS (DSA, systems, OS)  
+- Turning confusion into clean code  
+
+---
+
+## How I operate
+
+- Ask “why” too many times  
+- Break things before fixing them  
+- Prefer slow + correct over fast + wrong  
+
+If it’s in my repo, I learned something the hard way.
+
+---
+
+## Tools
+
+Python,Java  
+Pandas, NumPy, scikit-learn, PyTorch  
+Git, Linux, Docker, FastAPI  
+
+Tools change. Curiosity doesn’t.
+
+---
+
+## Right now
+
+- Getting better at ML (for real)  
+- Strengthening CS basics  
+- Learning how to build things that don’t fall apart  
+
+---
+
+If you’re here for polished perfection, you won’t find it.  
+If you’re here for honest learning—welcome.
+
+⭐ Star if you want. Or don’t. I’ll still do my thing.
